@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+# WIP
+I just stuck the Dracula GitHub Pages theme in here. Haven't done anything besides add these two lines yet.
 
 ### Preview Page Types
 [Listing Pages](samples/listings-page)
